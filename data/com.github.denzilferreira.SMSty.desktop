@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SMSty
+GenericName=SMSty
+Comment=This app allows you to receive and send SMS with your Android phones.
+Categories=Utility;
+Exec=com.github.denzilferreira.SMSty
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=SMS;Android;Texting;Messaging;
